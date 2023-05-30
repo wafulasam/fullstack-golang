@@ -1,2 +1,2 @@
 # amboseli
-simple webapp powered by golang
+simple web app powered by golang
