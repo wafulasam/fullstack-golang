@@ -1,4 +1,4 @@
-# amboseli
+# fullstack go app
 fullstack web app powered by golang
 
 #### Setup and running locally
