@@ -6,7 +6,7 @@ fullstack web app powered by golang
     - `git clone git@github.com:wafulasam/fullstack-golang.git`
     
     - `cd fullstack-golang`
-2. Install dependancy using `yarn` and start
+2. Run app locally
     - `go build`
     - `./fullstack-golang`
     
